@@ -11,10 +11,9 @@ If you need a template for your portfolio, maybe this template is a solution for
 
 ## Features
 
-- Loader
 - Home Menu
-- About Me Menu
-- My Work Menu
+- About Menu
+- Project Menu
 - Contact Menu
 
 ## 🔗 My Linkedin
