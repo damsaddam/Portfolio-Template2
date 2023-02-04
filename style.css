@@ -1,0 +1,104 @@
+/* Nav */
+nav {
+  background-color: black;
+}
+
+.navbar-brand {
+  color: rgb(0, 255, 255);
+  font-family: 'Odibee Sans', cursive;
+  font-size: 1.5em;
+  letter-spacing: 2px;
+}
+
+.container ul {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 1.5px;
+}
+
+.container ul li a {
+  color: rgb(0, 255, 255);
+}
+
+.container ul li a:hover {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+/* End Nav */
+
+/* Jumbotron */
+.jumbotron {
+  padding: 2rem 1rem;
+  /* padding-left: 2rem; */
+  background-color: rgb(0, 255, 255);
+}
+
+.jumbotron h1 {
+  font-family: 'Jomhuria', cursive;
+  letter-spacing: 1px;
+}
+
+.jumbotron .lead {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1.1em;
+}
+/* Ending Jumbotron */
+
+/* About */
+#about h1 {
+  font-family: 'Odibee Sans', cursive;
+  letter-spacing: 2px;
+  color: rgb(0, 255, 255);
+}
+
+#about {
+  padding: 3rem;
+}
+
+#about p {
+  color: white;
+}
+/* Ending About */
+
+/* Projects */
+#project {
+  font-family: 'Odibee Sans', cursive;
+  letter-spacing: 2px;
+  color: rgb(0, 0, 0);
+  padding: 3rem;
+}
+
+#project p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* Ending Projects */
+
+/* Contact */
+#contact {
+  font-family: 'Odibee Sans', cursive;
+  letter-spacing: 2px;
+  color: rgb(0, 255, 255);
+  padding: 3rem;
+}
+
+#contact .col {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* Ending Contact */
+
+footer p {
+  color: rgb(0, 255, 255);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer a {
+  color: rgb(0, 255, 255);
+}
